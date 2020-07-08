@@ -1,0 +1,9 @@
+include namespace
+
+int main(){
+string ad;
+cout<<"Lufen Adinizi Giriniz:";
+cin>>ad;
+
+retrun 0;
+}
